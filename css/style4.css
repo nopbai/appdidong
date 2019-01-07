@@ -1,0 +1,66 @@
+.container{
+	width: 536px;
+	height: 342px;
+	margin: auto;
+}
+.select1{
+	width: 536px;
+	height: 30px;
+	padding-top: 50px;
+	padding-left: 100px; 
+}
+.select1 label{
+	color: #fff;
+}
+.select1 input{
+	margin-left: 10px;
+	text-decoration: none;
+	border-radius: 10px;
+	padding-right: 30px;
+	padding-left: 10px;
+	font-size: 12px;
+}
+.select2{
+	width: 536px;
+	height: 110px;
+	padding-top: 40px;
+}
+.footer-col1-4{
+	width: 134px;
+	height: 110px;
+	float: left;
+}
+.footer-col1-4 p{
+	font-size: 12px;
+	margin-top: 0%;
+}
+.footer-col1-4 ol li{
+	font-size: 10px;
+	display: inherit;
+	margin-left: -40px;
+	margin-bottom: 2px;
+}
+.select3{
+	width: 536px;
+	height: 70px;
+	margin-top: 40px;
+}
+.select3 h6{
+	font-size: 8px;
+	text-align: center;
+}
+.select3 p{
+	font-size: 8px;
+	text-align: center;
+	margin-top: -10px;
+
+}
+.select3 img{
+	width: 14px;
+	height: 14px;
+	margin-left: 3px;
+}
+.select3 div{
+	margin-left: 190px;
+}
+

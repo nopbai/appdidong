@@ -1,0 +1,153 @@
+body{
+	background-color: rgba(0,0,0,0.4);
+}
+ul{
+	display: inline;
+	margin-left: -200px;
+}
+ul li{
+	display: inline-block;
+	margin-top: 8px; 
+}
+ul li a {
+	text-decoration: none;
+    color: black;
+    display:block !important;
+    margin-right: 15px;
+    font-size: 10px;
+    color: #fff;
+} 
+.app{
+	width: 736px;
+	height: 1458px;
+	margin:auto;
+
+}
+.header{
+	width: 736px;
+	height: 42px;
+	background-color: rgba(0,0,0,0.4);
+}
+.nav{
+	width: 736px;
+	height: 30px;
+	background-color: #01adff;
+}
+.main1{
+	width: 736px;
+	height: 347px;
+}
+.main2{
+	width: 736px;
+	height: 328px;
+}
+.main3{
+	width: 736px;
+	height: 369px;
+}
+.footer{
+	width: 736px;
+	height: 342px;
+	color: #fff;
+	background-color: #445;
+}
+.col1-2{
+	float: left;
+	width: calc(50% - 20px);
+}
+.option{
+	padding: 10px;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+.icon{
+	margin-left: 15px;
+	margin-top: 10px;
+}
+.icon a{
+	margin: 15px;
+}
+.sconto h3{
+	margin-top: 10px;
+	margin-left: 30px; 
+}
+.main11{
+	width: 368px;
+	height: 347px;
+	background-image: url("../img/366x185.jpg");
+}
+.main12{
+	width: 184px;
+	height: 347px;
+	background-image: url("../img/184x347.jpg");
+}
+.main13{
+	width: 184px;
+	height: 347px;
+	background-image: url("../img/184x347 2.jpg");
+}
+.conponent{
+	width: 130px;
+	height: 100px;
+	margin-left: 20px;
+}
+.conponent h3{
+	margin-top: -13px;
+	margin-bottom: 8px;
+	font-size: 20px;
+}
+.conponent button{
+	border-radius: 15px;
+	font-size: 7px;
+	padding: 5px 10px;
+	border: 1.5px solid black;
+	background-color: rgba(0,0,0,0.0);
+
+}
+.conponent-color-while{
+	color: #fff;
+}
+.conponent-color-button-while{
+	border: 1.5px solid #fff !important;
+	color: #fff;
+}
+
+.conponent-buttom-main1{
+	margin-top:210px;
+}
+.conponent-buttom-main3{
+	margin-top:60px;
+}
+.conponent-buttom-main2{
+	margin-top:190px;
+}
+.section{
+	width: 230px;
+	height: 180px;
+	margin-left: 44px;
+	margin-top: 70px;
+}
+.section h6{
+	font-size: 15px;
+}
+.sectionh1{
+	margin-top: -30px;
+	font-size: 40px;
+}
+.sectionh2{
+	color: blue;
+	margin-top: -35px;
+}
+.section p{
+	font-size: 11px;
+	margin-top: -20px;
+}
+.section button{
+	border-radius: 15px;
+	font-size: 7px;
+	padding: 5px 10px;
+	border: 1.5px solid black;
+	background-color: rgba(0,0,0,0.0);
+}
+
